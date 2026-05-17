@@ -200,7 +200,7 @@ export const CONTRACT_ADDRESSES: Record<number, `0x${string}`> = {
   421614:
     (process.env
       .NEXT_PUBLIC_CONTRACT_ADDRESS_ARBITRUM_SEPOLIA as `0x${string}`) ??
-    '0xdcEB5E9A8736cD43641A7fb6fc57dF9D86C8F6A3',
+    '0x54d88A4205CCc5bFEF82c47385ce37719eB6884E',
 };
 
 /** Default (Sepolia) — kept for legacy imports. Prefer useContractAddress(). */
